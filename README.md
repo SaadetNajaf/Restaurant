@@ -33,15 +33,25 @@ Welcome to the **Restaurant Website!** 🍕 A beautifully designed restaurant we
 
 Restaurant-Website/
 │── images/          # Images used in the website
+
 │── styles/          # CSS files for styling
+
 │── js/              # JavaScript files for functionality
+
 │── index.html       # Homepage
+
 │── about.html       # About the restaurant
+
 │── menu.html        # Food menu
+
 │── products.html    # Featured products
+
 │── review.html      # Customer testimonials
+
 │── contact.html     # Contact form
+
 │── blogs.html       # Latest news and updates
+
 │── README.md        # Project documentation
 
 ## 🔍 Preview  
