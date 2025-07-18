@@ -35,6 +35,8 @@ Includes a map, address, and contact details to help customers find and reach ou
 
 ![Restaurant Website](Restaurant.gif)  
 
+---
+
 ## 📞 Contact  
 
 📩 **Email:** [saadetnajaf@gmail.com](mailto:saadetnajaf@gmail.com)  
